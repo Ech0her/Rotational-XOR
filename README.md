@@ -1,0 +1,1 @@
+We provide n=32.c, the code for the search model of cyclic shift matrices with dimension 32. To search for matrices of other dimensions, only a few parameters in the code need to be modified. The experimental results of matrix searches for different dimensions are included in the res directory.
